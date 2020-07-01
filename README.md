@@ -1,5 +1,5 @@
 # Ms. Pac-Man AI Gym
-A machine learning model designed to play Ms. Pac-Man.
+A machine learning model designed to play Ms. Pac-Man. (2018)
 
 
 Using OpenAI Gym, I created a Neural Network designed to play Ms. Pac-Man. It's pretty bad at it, but I'm proud of it. I created a Policy Gradient Neural Network, along with reward functions to train the model.
